@@ -1,6 +1,7 @@
 <p align="center">
   <img alt="ostch logo" src="https://github.com/ibnusyawall/ostch/blob/master/screenshot/logo.png" height="142"/>
 </p>
+<p>lihat disini orinya https://github.com/ibnusyawall/ostch</p>
 
 ### Our Features
 ```
